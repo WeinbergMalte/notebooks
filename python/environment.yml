@@ -1,0 +1,19 @@
+name: notebooks
+dependencies:
+- numpy
+- pandas
+- python=3.9.1
+- pip=20.1.1
+- scikit-learn
+- pyyaml
+- pytest
+- pytest-cov
+- black=19.10b0
+- nb_black
+- pylint
+- jupyterlab
+- jupyter_conda
+- matplotlib
+- xgboost
+- catboost
+- lightgbm
