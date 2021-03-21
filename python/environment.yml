@@ -16,7 +16,7 @@ dependencies:
   - pylint=2.5.3
   - pytest=5.4.3
   - python=3.8
+  - jupyter
   - xgboost=1.2.0
   - lightgbm=3.1.0
-  - jupyter
   - catboost==0.24.4
