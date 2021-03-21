@@ -1,4 +1,4 @@
-name: notebooks
+name: nb
 channels:
   - conda-forge
   - defaults
@@ -17,6 +17,7 @@ dependencies:
   - pytest=5.4.3
   - python=3.8
   - jupyter
+  - shap=0.37.0
   - xgboost=1.2.0
   - lightgbm=3.1.0
   - catboost==0.24.4
